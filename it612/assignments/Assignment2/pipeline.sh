@@ -12,3 +12,4 @@
 printf "3\n2\n10\n5\n100\n25\n12\n13\n6\n" > input.dat
 
 # Do not modify the above. Start your code here.
+sort -rn input.dat | tee sorted.dat | tail -n +2 | head -5
