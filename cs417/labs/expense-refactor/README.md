@@ -67,9 +67,11 @@ shape:
 ]
 ```
 
-**Your task:** make the program handle both CSV and JSON input. The user
-should be able to choose at runtime (e.g., a CLI flag, an argument, however
-you wire it).
+**Your task:** make the program handle both CSV and JSON input. *How* the
+caller picks (CLI flag, file extension, argument to a function — your call)
+is not graded. What is graded: the parsing logic should be a separate
+component the pipeline takes as an argument, not a conditional inside the
+report-building code.
 
 **The trap:** if you copy the parsing block and paste it into an
 `if filename.endswith(".json")` branch, you will pass this part. You will
