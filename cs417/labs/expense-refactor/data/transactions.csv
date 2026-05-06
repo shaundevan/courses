@@ -1,0 +1,17 @@
+date,vendor,amount,note
+2026-04-01,Starbucks #4421,4.85,morning coffee
+2026-04-01,Shell Gas Station,52.30,fillup
+2026-04-02,AMAZON.COM*M93K2,28.99,desk lamp
+2026-04-02,Whole Foods Market,67.42,groceries
+2026-04-03,Netflix Subscription,15.49,monthly
+2026-04-03,Dunkin Donuts,3.25,
+2026-04-04,Target Store #1837,84.16,household
+2026-04-04,Spotify Family,16.99,monthly
+2026-04-05,Shell #221,48.75,fillup
+2026-04-06,Local Hardware Co,22.50,paint
+2026-04-07,Exxon Mobil,55.10,fillup
+2026-04-08,Starbucks #4421,5.95,latte
+2026-04-09,AMAZON.COM*P77QQ,142.00,monitor
+2026-04-10,Whole Foods Market,54.12,groceries
+2026-04-11,corrupted line with too few fields
+2026-04-12,Random Cafe,12.00,lunch

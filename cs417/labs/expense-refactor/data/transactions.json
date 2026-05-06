@@ -1,0 +1,17 @@
+[
+  {"date": "2026-04-01", "vendor": "Starbucks #4421", "amount": 4.85, "note": "morning coffee"},
+  {"date": "2026-04-01", "vendor": "Shell Gas Station", "amount": 52.30, "note": "fillup"},
+  {"date": "2026-04-02", "vendor": "AMAZON.COM*M93K2", "amount": 28.99, "note": "desk lamp"},
+  {"date": "2026-04-02", "vendor": "Whole Foods Market", "amount": 67.42, "note": "groceries"},
+  {"date": "2026-04-03", "vendor": "Netflix Subscription", "amount": 15.49, "note": "monthly"},
+  {"date": "2026-04-03", "vendor": "Dunkin Donuts", "amount": 3.25, "note": ""},
+  {"date": "2026-04-04", "vendor": "Target Store #1837", "amount": 84.16, "note": "household"},
+  {"date": "2026-04-04", "vendor": "Spotify Family", "amount": 16.99, "note": "monthly"},
+  {"date": "2026-04-05", "vendor": "Shell #221", "amount": 48.75, "note": "fillup"},
+  {"date": "2026-04-06", "vendor": "Local Hardware Co", "amount": 22.50, "note": "paint"},
+  {"date": "2026-04-07", "vendor": "Exxon Mobil", "amount": 55.10, "note": "fillup"},
+  {"date": "2026-04-08", "vendor": "Starbucks #4421", "amount": 5.95, "note": "latte"},
+  {"date": "2026-04-09", "vendor": "AMAZON.COM*P77QQ", "amount": 142.00, "note": "monitor"},
+  {"date": "2026-04-10", "vendor": "Whole Foods Market", "amount": 54.12, "note": "groceries"},
+  {"date": "2026-04-12", "vendor": "Random Cafe", "amount": 12.00, "note": "lunch"}
+]

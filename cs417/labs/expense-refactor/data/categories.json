@@ -1,0 +1,7 @@
+{
+  "food":          ["STARBUCKS", "DUNKIN", "WHOLEFOODS", "WHOLE FOODS"],
+  "gas":           ["SHELL", "EXXON"],
+  "shopping":      ["AMAZON", "TARGET"],
+  "entertainment": ["NETFLIX", "SPOTIFY"],
+  "home":          ["HARDWARE"]
+}
